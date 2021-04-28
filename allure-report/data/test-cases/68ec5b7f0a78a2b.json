@@ -1,12 +1,12 @@
 {
-  "uid" : "10622a662b6eac58",
+  "uid" : "68ec5b7f0a78a2b",
   "name" : "testExemplo()",
   "fullName" : "ExemploTest.testExemplo",
   "historyId" : "4467c2f8a9a42a1546256780dc8a267e",
   "time" : {
-    "start" : 1619597588188,
-    "stop" : 1619597604618,
-    "duration" : 16430
+    "start" : 1619600908343,
+    "stop" : 1619600935383,
+    "duration" : 27040
   },
   "description" : "",
   "status" : "passed",
@@ -19,7 +19,7 @@
     "value" : "LDSI014"
   }, {
     "name" : "thread",
-    "value" : "8320@LDSI014.main(1)"
+    "value" : "9916@LDSI014.main(1)"
   }, {
     "name" : "framework",
     "value" : "junit-platform"
@@ -50,6 +50,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "10622a662b6eac58.json",
+  "source" : "68ec5b7f0a78a2b.json",
   "parameterValues" : [ ]
 }

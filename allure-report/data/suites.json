@@ -5,7 +5,7 @@
     "name" : "Modulo E-Learning",
     "children" : [ {
       "name" : "testExemplo()",
-      "uid" : "be43e5ff22a6067a",
+      "uid" : "c90ada2b12c938b2",
       "parentUid" : "fa2c795dbe8175315f129e62518088d3",
       "status" : "passed",
       "time" : {

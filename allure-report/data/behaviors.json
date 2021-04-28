@@ -3,7 +3,7 @@
   "name" : "behaviors",
   "children" : [ {
     "name" : "testExemplo()",
-    "uid" : "be43e5ff22a6067a",
+    "uid" : "c90ada2b12c938b2",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
