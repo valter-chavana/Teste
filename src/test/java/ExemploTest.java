@@ -28,7 +28,7 @@ class ExemploTest {
     void testExemplo(){
         String expectedTitle = "Welcome: Mercury Tours";
         String actualTitle = "";
-        actualTitle = driver.getTitle();
+        actualTitle = driver.getitle();
 
         /*
          * compare the actual title of the page with the expected one and print
