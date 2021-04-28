@@ -27,7 +27,7 @@ class ExemploTest {
 
     @Test
     void testExemplo(){
-        String expectedTitle = "Welcome: Mercury Tours";
+        String expectedTitle = "Welcome: Mercury Tour";
         String actualTitle = "";
         actualTitle = driver.getTitle();
 
