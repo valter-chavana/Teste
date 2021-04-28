@@ -13,7 +13,7 @@ class ExemploTest {
     @BeforeEach
     void setUp() {
         // declaration and instantiation of objects/variables
-        System.setProperty("webdriver.gecko.driver","C:\\Users\\valter.chavana\\Desktop\\DEV\\ValidateAllure\\src\\test\\resources\\geckodriver25.exe");
+        System.setProperty("webdriver.gecko.driver","src/test/resources/geckodriver25.exe");
         driver = new FirefoxDriver();
         //comment the above 2 lines and uncomment below 2 lines to use Chrome
         //System.setProperty("webdriver.chrome.driver","G:\\chromedriver.exe");
