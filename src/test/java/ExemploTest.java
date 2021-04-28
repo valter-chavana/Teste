@@ -1,3 +1,4 @@
+import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
@@ -26,7 +27,7 @@ class ExemploTest {
 
     @Test
     void testExemplo(){
-        String expectedTitle = "Welcome: Mercury Tours";
+        String expectedTitle = "Welcome: Mercury Tou";
         String actualTitle = "";
         actualTitle = driver.getTitle();
 
@@ -39,6 +40,7 @@ class ExemploTest {
         } else {
             System.out.println("Test Failed");
         }
+        Assertions.assertTrue(expectedTitle.equals(actualTitle));
 
         //close Fire fox
         driver.close();
